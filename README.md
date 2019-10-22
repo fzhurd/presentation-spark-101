@@ -8,4 +8,4 @@ This repo contains examples on getting started with spark. Check out apache spar
 4. Demo 2
 5. Demo 3
 
-The idea of the Demo is to show examples of getting started with Spark. This will be using notebooks.  
+The idea of the Demo is to show examples of getting started with Spark through jupyter notebooks.  
