@@ -7,7 +7,7 @@ This repo contains examples on getting started with spark. Check out apache spar
     -- How does the RDD get formed ?
     -- How does dispersion and collection happen ?
     -- What is going on under the hood ?
-3. Demo 1 - This is a basic example of how to setup spark on your laptop. stil being decided between laptop or AWS account.
+3. Demo 1 - Counting all the words in a Text file
 4. Demo 2 - This will be the wine recommendation example
 5. Demo 3 - This could be a streaming example
 
