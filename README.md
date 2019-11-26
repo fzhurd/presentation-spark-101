@@ -14,5 +14,5 @@ This repo contains examples on getting started with spark. Check out apache spar
 Presentation time is going to be 40 mins. 
 
 ## Spark Usecases
-1. Transformations
+1. Transformations for ETL
 2. Machine Learning
