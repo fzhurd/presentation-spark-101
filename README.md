@@ -12,3 +12,7 @@ This repo contains examples on getting started with spark. Check out apache spar
 5. Demo 3 - This could be a streaming example
 
 Presentation time is going to be 40 mins. 
+
+## Spark Usecases
+1. Transformations
+2. Machine Learning
