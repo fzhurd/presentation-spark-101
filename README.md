@@ -21,4 +21,4 @@ Setting up a context, like what is a context and why do we have to set it up ?
 2) Spark Session
 3) DataFrame Writer , Reader -  take(), collect(), and foreach()
 -----
-advantages of using Spark for using in ETL pipelines, 1) Malform function that takes out stupid stuff in the raw data.
+advantages of using Spark for using in ETL pipelines, 1) Malform function that takes out stupid stuff in the raw data
