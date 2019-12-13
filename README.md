@@ -10,7 +10,7 @@ This repo contains examples on getting started with spark. Check out apache spar
 3. Demo 1 - Counting all the words in a Text file
 4. Demo 2 - Wine recommendation example
 
-Presentation time is going to be 40 mins
+Presentation time is 40 mins
 
 ## Spark Usecases
 1. Transformations for ETL
