@@ -25,4 +25,4 @@ advantages of using Spark versus Legacy Databases.
 1) Malform function that takes out stupid stuff in the raw data
 2) Where does spark get used in ETL pipelines ?
 3) Example template
--------
+---------
