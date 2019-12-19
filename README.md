@@ -24,5 +24,5 @@ Setting up a context, like what is a context and why do we have to set it up ?
 advantages of using Spark versus Legacy Databases.
 1) Malform function that takes out stupid stuff in the raw data
 2) Where does spark get used in ETL pipelines ?
-3) Example template
+3) MLLib
 -----
