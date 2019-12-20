@@ -21,8 +21,7 @@ Setting up a context, like what is a context and why do we have to set it up ?
 2) Spark Session
 3) DataFrame 
              i) Manipulations
-             ii) SQL operations
-             iii) Views
+             ii) SparkSQL
 
 -----
 advantages of using Spark versus Legacy Databases.
