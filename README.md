@@ -19,7 +19,11 @@ Presentation time is 40 mins
 Setting up a context, like what is a context and why do we have to set it up ?
 1) Spark Context
 2) Spark Session
-3) DataFrame Writer , Reader -  take(), collect(), and foreach()
+3) DataFrame 
+             i) Manipulations
+             ii) SQL operations
+             iii) Views
+
 -----
 advantages of using Spark versus Legacy Databases.
 1) Malform function that takes out stupid stuff in the raw data
