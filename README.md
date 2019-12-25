@@ -32,3 +32,4 @@ advantages of using Spark versus Legacy Databases.
 ## Demo
 creating RDDs
 Dataframe Row Operations
+Streams
