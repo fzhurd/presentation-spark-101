@@ -30,6 +30,6 @@ advantages of using Spark versus Legacy Databases.
 3) MLLib
 -----
 ## Demo
-creating RDDs
-Dataframe Row Operations
-Streams
+1) creating RDDs
+2) Dataframe Row Operations
+3) Streams
