@@ -16,7 +16,7 @@ Presentation time is 40 mins.
 1. Transformations for ETL
 2. Machine Learning
 -----
-Setting up a context, like what is a context and why do we have to set it up ?
+Setting up a context like what is a context and why do we have to set it up ?
 1) Spark Context
 2) Spark Session
 3) DataFrame 
