@@ -37,3 +37,4 @@ Advantages of using Spark versus Legacy Databases
 ## Resources
 1) databricks website
 2) Safari Database
+3) Youtube
