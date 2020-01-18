@@ -12,6 +12,8 @@ This repo contains examples on getting started with spark. Check out apache spar
                     -- sc.parallelize()
                     -- sc.range()
                     -- sc.collect() 
+    * Get the Docker image from https://hub.docker.com/r/jupyter/pyspark-notebook
+    * docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
                     
 3. Demo 1 - Counting all the words in a Text file
 4. Demo 2 - Wine recommendation example
