@@ -7,10 +7,11 @@ This repo contains examples on getting started with spark. Check out apache spar
     * How does the RDD get formed ?
     * How does dispersion and collection happen ?
     * What is going on under the hood ?
+    * Actions, transformations and Numerics
     * Useful command list- 
                     -- sc.parallelize()
                     -- sc.range()
-                    -- sc.collect()
+                    -- sc.collect() 
                     
 3. Demo 1 - Counting all the words in a Text file
 4. Demo 2 - Wine recommendation example
