@@ -3,7 +3,7 @@ This repo contains examples on getting started with spark. Check out apache spar
 
 ## Places to get Containerized Spark
 * [gettyimages](https://github.com/gettyimages/docker-spark)
-* [PySpark Notebook](https://hub.docker.com/r/jupyter/pyspark-notebook/)
+* [PySpark Notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook)
 
 ## Goals of the presentation:
 1. Apache Spark - The idea of this presentation is to give folks who have heard of Spark but not have worked on it a chance to see it in action. Give an intro on what can be done and help them start to experiment with it
@@ -16,7 +16,7 @@ This repo contains examples on getting started with spark. Check out apache spar
                     -- sc.parallelize()
                     -- sc.range()
                     -- sc.collect() 
-    * Get the Docker image from https://hub.docker.com/r/jupyter/pyspark-notebook
+    * [Get the PySpark - Jupyter Docker image] (https://hub.docker.com/r/jupyter/pyspark-notebook)
     * docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
                     
 3. Demo 1 - Counting all the words in a Text file
