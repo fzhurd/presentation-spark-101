@@ -43,8 +43,10 @@ Advantages of using Spark versus Legacy Databases
 -----
 ## Demo
 1) creating RDDs
-2) Dataframe Row Operations
-3) Streams
+2) Dataframes
+3) SparkSQL
+4) MLlib
+5) Streams
 -----
 ## Resources
 1) databricks website
