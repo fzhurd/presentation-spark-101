@@ -3,6 +3,7 @@ This repo contains examples on getting started with spark. Check out apache spar
 
 ## Places to get Containerized Spark
 * [gettyimages](https://github.com/gettyimages/docker-spark)
+* [PySpark Notebook](https://hub.docker.com/r/jupyter/pyspark-notebook/)
 
 ## Goals of the presentation:
 1. Apache Spark - The idea of this presentation is to give folks who have heard of Spark but not have worked on it a chance to see it in action. Give an intro on what can be done and help them start to experiment with it
