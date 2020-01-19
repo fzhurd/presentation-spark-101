@@ -24,10 +24,7 @@ This repo contains examples on getting started with spark. Check out [apache spa
 
 Presentation time is 40 mins
 
-## Spark Usecases
-1. Transformations for ETL
-2. Machine Learning
------
+## Into the weeds
 Setting up a context like what is a context and why do we have to set it up ?
 1) Spark Context
 2) Spark Session
