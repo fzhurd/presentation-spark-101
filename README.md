@@ -20,7 +20,7 @@ This repo contains examples on getting started with spark. Check out [apache spa
     * docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
                     
 3. Demo 1 - Counting all the words in a Text file
-4. Demo 2 - Wine recommendation example
+4. Demo 2 - ML example
 
 Presentation time is 40 mins
 
