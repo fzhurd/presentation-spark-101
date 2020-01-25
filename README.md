@@ -18,6 +18,8 @@ This repo contains examples on getting started with spark. Check out [apache spa
                     -- sc.collect() 
     * [Get the PySpark - Jupyter Docker image](https://hub.docker.com/r/jupyter/pyspark-notebook)
     * docker run -it --rm -p 8888:8888 jupyter/pyspark-notebook
+    * For jupyter lab interface use docker run -p 8888:8888 -p 4040:4040 -e JUPYTER_ENABLE_LAB=yes -it --user root -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook
+
                     
 3. Demo 1 - Counting all the words in a Text file
 4. Demo 2 - ML example
