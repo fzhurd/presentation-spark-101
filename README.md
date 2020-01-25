@@ -44,7 +44,8 @@ Advantages of using Spark versus Legacy Databases
 2) SparkSQL
 3) RDDs
 4) MLlib
-5) Streams
+5) Streams 
+   * use netcat to run word stream nc -l -p 9999
 ----
 ## Next Steps
 1) you can check out the spark Graph feature that does cool graph algorithms
