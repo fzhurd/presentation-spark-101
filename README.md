@@ -6,7 +6,7 @@ This repo contains examples on getting started with spark. Check out [apache spa
 * [PySpark Notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook)
 
 ## Goals of the presentation:
-1. Apache Spark - The idea of this presentation is to give folks who have heard of Spark but not have worked on it a chance to see it in action. Give an intro on what can be done and help them start to experiment with it
+1. Apache Spark - The idea of this presentation is to give folks who have heard of Spark but not have worked on it a chance to see it in action. Give an intro on what its about and how they can get started.
 2. Talk a little theory - This presentation is limited to the working of Spark, we will not go into the Machine Learning aspects of spark just into the data aspects, Spark SQL, some ETL related stuff and Machine Learning
     * How does the RDD get formed ?
     * How does dispersion and collection happen ?
@@ -43,6 +43,11 @@ Advantages of using Spark versus Legacy Databases
 3) RDDs
 4) MLlib
 5) Streams
+----
+## Next Steps
+1) you can check out the spark Graph feature that does cool graph algorithms
+2) Writing spark applications 
+3) Spark monitoring and tuning
 -----
 ## Resources
 1) databricks website
