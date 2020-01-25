@@ -25,8 +25,7 @@ This repo contains examples on getting started with spark. Check out [apache spa
 Presentation time is 40 mins
 
 ## Into the weeds
-Setting up a context like what is a context and why do we have to set it up ?
-1) Spark Context
+1) Spark Context - Setting up a context like what is a context and why do we have to set it up ?
 2) Spark Session
 3) DataFrame 
              i) Manipulations
