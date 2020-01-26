@@ -56,4 +56,6 @@ Advantages of using Spark versus Legacy Databases
 1) databricks website
 2) Safari Database
 3) Spark.Apache.org
-
+4) [pyspark notebooks](https://github.com/jadianes/spark-py-notebooks)
+5) [databricks word count 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1880776780418274/2202577924924539/latest.html)
+6) [databricks word count 2](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3328674740105987/4033840715400609/6441317451288404/latest.html)
