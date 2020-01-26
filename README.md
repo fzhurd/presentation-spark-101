@@ -20,18 +20,13 @@ This repo contains examples on getting started with spark. Check out [apache spa
     * docker run -it --rm -p 8888:8888 -p 4040:4040 jupyter/pyspark-notebook
     * For jupyter lab interface use docker run -p 8888:8888 -p 4040:4040 -e JUPYTER_ENABLE_LAB=yes -it --user root -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook
 
-                    
-3. Demo 1 - Counting all the words in a Text file
-4. Demo 2 - ML example
-
 Presentation time is 40 mins
 
 ## Into the weeds
 1) Spark Context - Setting up a context like what is a context and why do we have to set it up ?
 2) Spark Session
-3) DataFrame 
-             i) Manipulations
-             ii) SparkSQL
+3) structured APIs- DataFrame, SQL
+4) lowlevel APIs - RDDs, Distributed Variables
 
 -----
 Advantages of using Spark versus Legacy Databases
