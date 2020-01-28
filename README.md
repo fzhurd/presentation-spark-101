@@ -56,3 +56,4 @@ Advantages of using Spark versus Legacy Databases
 6) [databricks word count 2](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3328674740105987/4033840715400609/6441317451288404/latest.html)
 7) [databricks ML example](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8599738367597028/68280419113053/3601578643761083/latest.html)
 8) [RDD paper by Matei Zaharia et al](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+9) [Spark computing on clusters by Matei Zaharia](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
