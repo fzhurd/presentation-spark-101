@@ -17,8 +17,8 @@ This repo contains examples on getting started with spark using python.
                     -- sc.range()
                     -- sc.collect() 
     * [Get the PySpark - Jupyter Docker image](https://hub.docker.com/r/jupyter/pyspark-notebook)
-    * docker run -it --rm -p 8888:8888 -p 4040:4040 jupyter/pyspark-notebook
-    * For jupyter lab interface use docker run -p 8888:8888 -p 4040:4040 -e JUPYTER_ENABLE_LAB=yes -it --user root -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook
+    * `docker run -it --rm -p 8888:8888 -p 4040:4040 jupyter/pyspark-notebook`
+    * For jupyter lab interface use `docker run -p 8888:8888 -p 4040:4040 -e JUPYTER_ENABLE_LAB=yes -it --user root -v "$PWD":/home/jovyan/work jupyter/pyspark-notebook`
 
 Presentation time is 40 mins
 
