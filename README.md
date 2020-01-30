@@ -58,3 +58,4 @@ Advantages of using Spark versus Legacy Databases
 8) [RDD paper by Matei Zaharia et al](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 9) [Spark cluster computing with working sets by Matei Zaharia et al](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 10) [Apache Spark:architecture and Internals](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/)
+11) [Data partitioning in Spark](https://www.dezyre.com/article/how-data-partitioning-in-spark-helps-achieve-more-parallelism/297)
