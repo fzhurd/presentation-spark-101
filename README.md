@@ -48,7 +48,7 @@ Advantages of using Spark versus Legacy Databases
 3) Spark monitoring and tuning
 -----
 ## Resources
-1) databricks website
+1) [databricks website](https://docs.databricks.com/)
 2) Safari Database
 3) Spark.Apache.org
 4) [pyspark notebooks](https://github.com/jadianes/spark-py-notebooks)
