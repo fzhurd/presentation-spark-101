@@ -49,7 +49,7 @@ Advantages of using Spark versus Legacy Databases
 -----
 ## Resources
 1) [databricks website](https://docs.databricks.com/)
-2) Safari Database
+2) [Apache Spark in 7 Days](https://www.oreilly.com/library/view/apache-spark-in/9781789809145/)
 3) [Spark.Apache.org](https://spark.apache.org/docs/latest/index.html)
 4) [pyspark notebooks](https://github.com/jadianes/spark-py-notebooks)
 5) [databricks word count 1](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2799933550853697/1880776780418274/2202577924924539/latest.html)
@@ -59,3 +59,4 @@ Advantages of using Spark versus Legacy Databases
 9) [Spark cluster computing with working sets by Matei Zaharia et al](https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf)
 10) [Apache Spark:architecture and Internals](http://datastrophic.io/core-concepts-architecture-and-internals-of-apache-spark/)
 11) [Data partitioning in Spark](https://www.dezyre.com/article/how-data-partitioning-in-spark-helps-achieve-more-parallelism/297)
+12)
