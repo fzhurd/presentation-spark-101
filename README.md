@@ -61,3 +61,4 @@ Advantages of using Spark versus Legacy Databases
 11) [Data partitioning in Spark](https://www.dezyre.com/article/how-data-partitioning-in-spark-helps-achieve-more-parallelism/297)
 12) [Apache Spark 2.0 for Beginners](https://www.oreilly.com/library/view/apache-spark-2/9781785885006/)
 13) [resource allocation in Spark](http://site.clairvoyantsoft.com/understanding-resource-allocation-configurations-spark-application/)
+14) [RDD operations](https://trongkhoanguyen.com/spark/understand-rdd-operations-transformations-and-actions/)
